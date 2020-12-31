@@ -184,13 +184,12 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
   miscellaneous:
     output: true
     permalink: /:collection/:path/
-
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -221,15 +220,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _miscellaneous
-  - scope:
-      path: ""
-      type: miscellaneous
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -248,6 +238,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _miscellaneous
+  - scope:
+      path: ""
+      type: miscellaneous
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _talks
   - scope:
       path: ""
