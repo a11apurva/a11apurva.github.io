@@ -2,8 +2,6 @@
 title: "Travel"
 collection: miscellaneous
 permalink: /miscellaneous/travel
-venue: 
-date: 
-location: 
+location: "Manipal, India"
 ---
-Traveling 
+Travel
