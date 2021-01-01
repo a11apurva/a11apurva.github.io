@@ -2,7 +2,7 @@
 main:
 
   - title: "Home"
-    url: /bio/
+    url: https://a11apurva.github.io/
     
   - title: "CV"
     url: /cv/
