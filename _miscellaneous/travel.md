@@ -1,6 +1,6 @@
 ---
-title: "Travel"
+title: ""
 collection: miscellaneous
 location: "Manipal, India"
 ---
-Travel
+This page is Work In Progress.
